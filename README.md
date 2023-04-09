@@ -1,3 +1,0 @@
-# DataeScienceEcosystems
-## DataScience
-### Data
